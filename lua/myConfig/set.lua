@@ -27,3 +27,6 @@ vim.opt.signcolumn = "yes"
 
 -- leader
 vim.g.mapleader = " "
+
+-- terminal gui color
+vim.opt.termguicolors = true

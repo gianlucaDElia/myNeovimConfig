@@ -21,6 +21,9 @@ vim.opt.writebackup = false
 vim.opt.hlsearch = false
 vim.opt.incsearch = true
 
--- scrool and column
-vim.opt.scrooloff = 8
+-- scroll and column
+vim.opt.scrolloff = 8
 vim.opt.signcolumn = "yes"
+
+-- leader
+vim.g.mapleader = " "

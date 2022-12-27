@@ -8,3 +8,4 @@ sudo pacman -S ripgrep tree-sitter
 - [packer.nvim](https://github.com/wbthomason/packer.nvim): package manager
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim): fuzzy finder
 - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter): highlighting
+- [harpoon](https://github.com/ThePrimeagen/harpoon): getting you where you want

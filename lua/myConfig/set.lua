@@ -30,3 +30,6 @@ vim.g.mapleader = " "
 
 -- terminal gui color
 vim.opt.termguicolors = true
+
+-- copy from clipboard
+vim.opt.clipboard = "unnamedplus"

@@ -35,5 +35,13 @@ return require('packer').startup(function(use)
 		  {'L3MON4D3/LuaSnip'},
 		  {'rafamadriz/friendly-snippets'},
 	  }
-}
+    }
+
+    use({
+        'sonph/onehalf',
+        rtp = 'vim',
+        config = function()
+            vim.cmd('colorscheme onehalfdark')
+        end
+    })
 end)

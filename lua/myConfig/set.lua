@@ -33,3 +33,4 @@ vim.opt.termguicolors = true
 
 -- copy from clipboard
 vim.opt.clipboard = "unnamedplus"
+
